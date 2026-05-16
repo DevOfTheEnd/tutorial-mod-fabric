@@ -9,5 +9,8 @@
   "itemgroup.tutorialmod.pink_garnet_blocks": "Pink Garnet Blocks",
 
   "block.tutorialmod.pink_garnet_ore": "Pink Garnet Ore",
-  "block.tutorialmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore"
+  "block.tutorialmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+  "block.tutorialmod.magic_block": "Magic Block",
+
+  "item.tutorialmod.chisel": "Chisel"
 }
